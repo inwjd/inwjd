@@ -5,7 +5,7 @@
 - 🔭 I’m currently working for team Humanoid ROBIT, Kwangwoon University(Seoul, South Korea)
   
 - 🌱 I’m currently learning embedded system, pcb design
-- 
+  
 - 📫 Contact: jangjungin0059@naver.com
 
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/altiumdesigner-#A5915F?&style=flat&logo=altiumdesigner&logoColor=#A5915F"/>
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/altium-A5915F?&style=flat&logo=altium&logoColor=#A5915F"/>
