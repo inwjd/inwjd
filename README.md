@@ -11,4 +11,4 @@
 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Altium-A5915F?&style=flat&logo=Altium Designer&logoColor=white"/> <img src="https://img.shields.io/badge/CubeIDE-01B4E4?&style=flat&logo=stmicroelectronics&logoColor=white"/>
 
-![](https://github.com/inwjd/inwjd/blob/main/chat.svg)<a href="mailto:jangjungin0059@naver.com">jangjungin0059@naver.com</a>
+[![](https://github.com/inwjd/inwjd/blob/main/chat.svg)<a href="mailto:jangjungin0059@naver.com">jangjungin0059@naver.com</a>]
