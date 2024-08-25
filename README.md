@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Jeongin%20Jang's%20Github&fontSize=60)
 # 👋Hello, I'm Jeongin Jang
 <div>
-  
 - 🔭 I’m currently working for RO:BIT, humanoid robot team
   
 - 🌱 I’m currently learning embedded system, pcb design
