@@ -343,7 +343,7 @@
 
 <!-- Twitter -->
 <g transform="translate(10, 168)" class="msg-4">
-  <rect width="415" height="66.1032" rx="18.0355" class="bubble" />
+  <rect width="415" height="42" rx="18.0355" class="bubble" />
   <text x="15" y="27">please contact me <a href="mailto:jangjungin0059@naver.com">jangjungin0059@naver.com</a></text>
   <text x="15" y="50">please contact me <a href="mailto:jangjungin0059@gmail.com">jangjungin0059@gmail.com</a></text>
 </g>
