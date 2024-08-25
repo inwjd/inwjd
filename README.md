@@ -11,4 +11,10 @@
   
 - 🌱 I’m currently learning embedded system, pcb design
   
-- 📫 Contact: jangjungin0059@naver.com   
+- 📫 Connect with me
+
+[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/github.png" />][GitHub]
+[<img align="left" alt="inwjd | Instagram" width="48px" src="https://img.icons8.com/material-outlined/48/instagram-new--v1.png" />][instagram]
+
+[GitHub]: https://github.com/inwjd
+[instagram]: https://instagram.com/wjddls0603
