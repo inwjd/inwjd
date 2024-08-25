@@ -7,11 +7,11 @@
 # 👋Hello, I'm Jeongin Jang
 <div>
   
-- 🔭 I’m currently working for RO:BIT, humanoid robot team
+- 🔭 I’m currently working for __RO:BIT__, humanoid robot team
   
 - 🌱 I’m currently learning embedded system, pcb design
   
-- 📫 Connect with me
+- 📫 __Connect__ with me:
 
 [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/github.png" />][GitHub]
 [<img align="left" alt="inwjd | YouTube" width="48px" src="https://img.icons8.com/color/48/youtube-play.png" />][YouTube]
