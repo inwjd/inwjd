@@ -3,7 +3,7 @@
 
 <div>
   
-- 🔭 I’m currently working for team Humanoid ROBIT, Kwangwoon University(Seoul, South Korea)
+- 🔭 I’m currently working for RO:BIT, humanoid robot team
   
 - 🌱 I’m currently learning embedded system, pcb design
   
