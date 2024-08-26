@@ -7,7 +7,9 @@
 # 👋Hello, I'm Jeongin Jang
 <div>
   
-- 🔭 I’m currently working for __RO:BIT__
+- 🔭 I’m currently working for [<img align="left" alt="RO:BIT | RO:BIT" width="48px" src="https://raw.githubusercontent.com/inwjd/.github/master/images/robit - black.png" />][ROBIT]
+
+[ROBIT]: https://github.com/Team-ROBIT
   
 - 🌱 I’m currently learning embedded system, pcb design
   
