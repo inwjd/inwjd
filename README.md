@@ -10,6 +10,8 @@
 - 🔭 I’m currently working for [<img align="center" alt="RO:BIT | RO:BIT" width="48px" src="https://github.com/inwjd/inwjd/blob/035201c12788ff801bb3fb3dbba5b6dacccf9231/images/robit%20-%20black.png" />][ROBIT]
 
 [ROBIT]: https://github.com/ROBIT-KOR-teamHumanoid
+
+- 🔭 I’m currently working for <a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/035201c12788ff801bb3fb3dbba5b6dacccf9231/images/robit%20-%20black.png" height = "50" align = "middle"/></a></p> 
   
 - 🌱 I’m currently learning embedded system, pcb design
   
