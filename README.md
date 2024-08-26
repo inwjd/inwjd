@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working for [<img align="center" alt="RO:BIT | RO:BIT" width="48px" src="https://raw.githubusercontent.com/inwjd/.github/master/images/robit - black.png" />][ROBIT]
 
-[ROBIT]: https://github.com/Team-ROBIT
+[ROBIT]: https://github.com/ROBIT-KOR-teamHumanoid
   
 - 🌱 I’m currently learning embedded system, pcb design
   
