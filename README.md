@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=140&section=header&text=Jeongin%20Jang's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Jeongin%20Jang's%20Github&fontSize=40)
 [![](https://github.com/inwjd/inwjd/blob/main/chat.svg)](mailto:jangjungin0059@naver.com)
 
 
