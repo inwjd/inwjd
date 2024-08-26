@@ -7,7 +7,7 @@
 # 👋Hello, I'm Jeongin Jang
 <div>
   
-- 🔭 I’m currently working for __RO:BIT__, humanoid robot team
+- 🔭 I’m currently working for I’m currently working for ![RO:BIT](robit - black.png)[RO:BIT GitHub Repository](https://github.com/ROBIT-KOR-teamHumanoid)
   
 - 🌱 I’m currently learning embedded system, pcb design
   
