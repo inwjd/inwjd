@@ -11,7 +11,7 @@
 
 ### • 🌱 I’m currently learning embedded system, pcb design
 
-### • 📫 __Connect__ with me:
+### • 📫 **Connect** with me:
 
 [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/github.png" />][GitHub]
 [<img align="left" alt="inwjd | YouTube" width="48px" src="https://img.icons8.com/material-rounded/48/youtube-play.png" />][YouTube]
