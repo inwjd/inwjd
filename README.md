@@ -7,13 +7,11 @@
 # 👋Hello, I'm Jeongin Jang
 <div>
 
-### I’m currently working for&nbsp;&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "28" align = "middle"/></a></p> 
+### • 🔭 I’m currently working for&nbsp;&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "28" align = "middle"/></a></p> 
 
-  ####
-- 🌱 I’m currently learning embedded system, pcb design
+### • 🌱 I’m currently learning embedded system, pcb design
 
-  ####
-- 📫 __Connect__ with me:
+### • 📫 __Connect__ with me:
 
 [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/github.png" />][GitHub]
 [<img align="left" alt="inwjd | YouTube" width="48px" src="https://img.icons8.com/material-rounded/48/youtube-play.png" />][YouTube]
