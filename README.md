@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Jeongin%20Jang's%20Github&fontSize=40&fontColor=3f3f3f)
 [![](https://github.com/inwjd/inwjd/blob/main/chat.svg)](mailto:jangjungin0059@naver.com)
 
-&nbsp;  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Altium-A5915F?&style=flat&logo=Altium Designer&logoColor=white"/> <img src="https://img.shields.io/badge/CubeIDE-01B4E4?&style=flat&logo=stmicroelectronics&logoColor=white"/>
+&nbsp;&nbsp;  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Ros-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Altium-A5915F?&style=flat&logo=Altium Designer&logoColor=white"/> <img src="https://img.shields.io/badge/CubeIDE-01B4E4?&style=flat&logo=stmicroelectronics&logoColor=white"/>
 
 # 👋Hello, I'm Jeongin Jang
 <div>
