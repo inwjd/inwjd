@@ -16,7 +16,7 @@
 [<img align="left" alt="inwjd | YouTube" width="48px" src="https://img.icons8.com/material-rounded/48/youtube-play.png" />][YouTube]
 [<img align="left" alt="inwjd | Instagram" width="48px" src="https://img.icons8.com/material-outlined/48/instagram-new--v1.png" />][instagram]
 [<img align="left" alt="inwjd | Facebook" width="48px" src="https://img.icons8.com/material-rounded/48/facebook.png" />][Facebook]
-[<img align="left" alt="inwjd | Archive" width="48px" src="https://img.icons8.com/material-outlined/48/bot.png" />][Archive]
+[<img align="left" alt="inwjd | Archive" width="48px" src="https://img.icons8.com/material-outlined/48/chatbot.png" />][Archive]
 
 [GitHub]: https://github.com/inwjd
 [YouTube]: https://www.youtube.com/@ROBIT_KOREA
