@@ -6,7 +6,7 @@
 # 👋Hello, I'm Jeongin Jang
 <div>
 
-### &nbsp;• 🔭 I’m currently working for&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "32" align = "middle"/></a></p> 
+### &nbsp;• 🔭 I’m currently working for&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "32" align = "top"/></a></p> 
 
 ### &nbsp;• 🌱 I’m currently learning embedded system, pcb design&nbsp;<a href="https://github.com/inwjd"><img src="https://github.com/inwjd/inwjd/blob/02e4dee337ab58d3d08b6ae53d141c943841adf3/images/icons8-electronics-28.png" height = "28" align = "top"/></a></p>
 
