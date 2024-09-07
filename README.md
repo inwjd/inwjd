@@ -8,7 +8,7 @@
 
 ### &nbsp;• 🔭 I’m currently working for&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "32" align = "top"/></a></p> 
 
-### &nbsp;• 🌱 I’m currently learning embedded system, pcb design&nbsp;<a href="https://github.com/inwjd"><img src="https://github.com/inwjd/inwjd/blob/78d19e5fdf8449b850c404b5d76ebe772a3d9711/images/icons8-electronics-23.png" height = "23" align = "top"/></a></p>
+### &nbsp;• 🌱 I’m currently learning embedded system, pcb design&nbsp;<a href="https://github.com/inwjd"><img src="https://github.com/inwjd/inwjd/blob/78d19e5fdf8449b850c404b5d76ebe772a3d9711/images/icons8-electronics-23.png" height = "28" align = "top"/></a></p>
 
 ### &nbsp;• 📫 **Connect** with me:
 
