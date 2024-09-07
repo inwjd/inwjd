@@ -9,7 +9,6 @@
 ### &nbsp;• 🔭 I’m currently working for&nbsp;&nbsp;<a href="https://github.com/ROBIT-KOR-teamHumanoid"><img src="https://github.com/inwjd/inwjd/blob/0dfcf056df517acc3ef7f4bdeffd615c767388d8/images/robit_logo_kw.png" height = "28" align = "middle"/></a></p> 
 
 ### &nbsp;• 🌱 I’m currently learning embedded system, pcb design
-[<img align="left" alt="inwjd | GitHub" width="32px" src="https://img.icons8.com/color/32/electronics.png" />][Circuit]
 
 ### &nbsp;• 📫 **Connect** with me:
 
@@ -19,7 +18,6 @@
 [<img align="left" alt="inwjd | Facebook" width="48px" src="https://img.icons8.com/material-rounded/48/facebook.png" />][Facebook]
 [<img align="left" alt="inwjd | Archive" width="48px" src="https://img.icons8.com/fluency-systems-regular/48/add-contact-to-company.png" />][Archive]
 
-[Circuit]: https://img.icons8.com/color/32/electronics.png
 [GitHub]: https://github.com/inwjd
 [YouTube]: https://www.youtube.com/@ROBIT_KOREA
 [instagram]: https://instagram.com/wjddls0603
