@@ -20,6 +20,6 @@
 
 [GitHub]: https://github.com/inwjd
 [YouTube]: https://www.youtube.com/@ROBIT_KOREA
-[instagram]: https://instagram.com/wjddls0603
+[instagram]: https://www.instagram.com/robit_korea_official
 [Facebook]: https://facebook.com/kwrobit
 [Archive]: https://sites.google.com/view/robitarchieve/main
