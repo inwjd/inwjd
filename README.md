@@ -24,10 +24,3 @@
 [Facebook]: https://facebook.com/kwrobit
 [Archive]: https://sites.google.com/view/robitarchieve/main   
 
-<br/><br/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,notion" />
-  </a>
-</p>
